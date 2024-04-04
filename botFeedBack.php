@@ -12,9 +12,9 @@ $bot->init('php://input');
 class Bot
 {
     // <bot_token> - созданный токен для нашего бота от @BotFather
-    private $botToken = "34069ХХХХ:XXXXXXXXXXXX-XXXXXXXXXXXXKVW3qILFpY";
+    private $botToken = "7111572552:AAHIIMPsr9Ml89vnjmhStlA8jmmDbQD1ES8";
     // наш уникальный id в Telegramm - можно воспользоваться @userinfobot при старте он вам его покажет
-    private $adminId = 123456789; //137244348 -> id @kravchukk
+    private $adminId = 1374510902; //137244348 -> id @kravchukk
     // адрес для запросов к API Telegram
     private $apiUrl = "https://api.telegram.org/bot";
     // Приветствие для админа при старте
